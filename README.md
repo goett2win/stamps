@@ -20,7 +20,7 @@ Most of these are already included in python distributions like canopy (https://
 ## Exercises
 
 The exercises can be solved by executing all cells of the notebook.
-Execution of some cells (loading data) can take a while. Execution of the last cell will open two windows showing the result plots for Ex. 1 and Ex. 2.
+Execution of some cells (loading data) can take a while. Execution of the last two cells will open two windows showing the result plots for Ex. 1 and Ex. 2.
 
 Note, I did not use the shapefile to show country borders; it was more convenient to use the matplotlib "basemap" toolkit.
 
