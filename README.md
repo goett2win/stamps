@@ -2,8 +2,6 @@
 
 The two exercises are solved by executing the Jupyter Notebook (IPython) "Exercises.ipynb".
 
-I used linux (Ubuntu 14.04 LTS) to prepare the code.
-
 ## Dependencies
 
 The notebook requires an installation of python and ipython (https://ipython.org/install.html).
@@ -14,7 +12,7 @@ Moreover, I rely on the following python modules:
 * basemap (https://matplotlib.org/basemap/, also part of the ubuntu package manager)
 * numpy (http://www.numpy.org/)
 
-Most of these are already included in python distributions like canopy (https://www.enthought.com/products/canopy/) or anaconda https://www.continuum.io/downloads).
+All of these packages can for example be installed via the python distribution anaconda (https://www.continuum.io/downloads) and the accompanying package manager Conda (https://conda.io/docs/).
 
 
 ## Exercises
